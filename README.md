@@ -1,13 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Can you create requirements file and update readme.
-
-● Instructions to run the application (README). ● Brief architecture/design explanation (Markdown or PDF).
-
-Certainly! Here's a detailed README.md file tailored for your YellowAI Chatbot project, including all necessary instructions and architecture explanations.
-
-***
-
 ```markdown
 # YellowAI Chatbot
 
